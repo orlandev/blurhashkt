@@ -1,4 +1,4 @@
-package com.ondev.blurhashkt_lib
+package com.ondev.blurhashkt
 
 /**
  *   this code belongs to woltapp and  can be found at

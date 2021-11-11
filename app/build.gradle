@@ -60,7 +60,7 @@ dependencies {
     //Coil Image Loader Library
     implementation "io.coil-kt:coil-compose:1.3.2"
 
-    implementation project(':blurhashkt-lib')
+    implementation project(':blurhashkt')
 
     testImplementation 'junit:junit:4.+'
     androidTestImplementation 'androidx.test.ext:junit:1.1.3'

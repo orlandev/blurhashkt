@@ -1,4 +1,4 @@
-package com.ondev.blurhashkt_lib
+package com.ondev.blurhashkt
 
 import org.junit.Test
 
