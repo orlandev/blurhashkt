@@ -12,7 +12,7 @@ android {
         minSdk 21
         targetSdk 31
         versionCode 3
-        versionName "1.0.1-alpha04"
+        versionName "1.0.1-alpha05"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         consumerProguardFiles "consumer-rules.pro"
@@ -50,7 +50,7 @@ afterEvaluate {
                 from components.release
                 groupId = 'com.github.orlando-dev-code'
                 artifactId = 'blurhashkt'
-                version = '1.0.1-alpha04'
+                version = '1.0.1-alpha05'
             }
         }
     }
